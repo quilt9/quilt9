@@ -10,7 +10,7 @@ I stumbled upon jekyll a couple days ago. Once I learned that jekyll is a websit
 
 These are the websites that helped me get jekyll installed and my blog hosted on Github:  
 * [The Programming Historian]  
-* [jekyll-docs]
+* [jekyll-docs]  
 * [jekyll-talk]  
 
 These are websites that I will turn to in order to create better looking pages:
