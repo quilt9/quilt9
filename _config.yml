@@ -2,7 +2,7 @@
 title: Quilt9 *_* Be Code and Go Freak
 email: hello@quilt9.com
 description: > # this means to ignore newlines until "baseurl:"
-  A simple log of accomplishment and discovery.
+  Microblogging about accomplishments and discoveries that shape me.
 baseurl: "/quilt9" # the subpath of your site, e.g. /blog
 url: "localhost:4000" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: quilt9

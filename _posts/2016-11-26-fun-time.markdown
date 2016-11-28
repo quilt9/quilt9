@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Do What Excites Me"
+date:   2016-11-27 20:32:48 -0500
+categories: living
+---
+### Doing a little making, walking, and simply enjoying the moments
+
+#### Made Mini Spock
+![My Spock Build](/quilt9/images/posts/2016-11-26/my_spock_build.jpg)
+
+#### Laughed with Sasha
+![My Walk with Sasha](/quilt9/images/posts/2016-11-26/Sunny_Walk_Sasha.jpg)
+
+#### Added Images and Found Good Markdown Cheatsheet
+[This I Like](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
+
+
+
