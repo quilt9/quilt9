@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "Medium is What I Need Right Now"
+date:   2016-11-28 20:32:48 -0500
+categories: living
+---
+### Write about What Excites Me
+
+All day I felt overwhelmed by all the new and excitying things that I would like to start doing and building. Started this blog last week, built with Jekyll and version-managed with GitHub, was part of my effort of keeping a microblog on trying new ways to create as a designer and developer all in one place. So today I didn't learn anything new or created anything exciting to me, in a bit of limbo. I believed there was nothing worth writing about and felt shitty about skipping today's blog.
+
+Then this article on Medium [What to write when you don’t know what to write](https://medium.com/benjamin-dada/what-to-write-when-you-dont-know-what-to-write-d2dcd48bc0ac#.4h84f4l0m) showed up in my InBox. Now I am writing. Loving it! 
+
+#### Medium
+Lately I find myself reading [Medium](https://medium.com/) daily. I can't remember the moment I discoverd Medium. It has provided for me again and again for inspiration, motivation, and direction. 
+
+#### InVision and Sketch
+When I was studying Communication and Design, using computer to create design was beginning to become the industry standard. I was at the right place to witness the dawning of a new workflow. Now I find myself eager to learn new workflow using InVision and Sketch to create elements for the internet. 
+
+#### GitHub
+Joined the webinar "GitHub for Developers" this morning, I was late to join but happy to learn that I am only using a number of features talked about in the webinar. There is another tomorrow.
+
+#### Udacity
+Now you need to finish the Front-end Development before end of year!
+
+
+
