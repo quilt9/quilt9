@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Using New Words"
+date:   2016-11-29 10:32:48 -0500
+categories: milestones
+---
+### Times are Changing
+
+Meaningful growth brings discomfort and fear for loss. Getting somewhere new requires the deliberate act of getting lost. Acquiring the beginner's mind allows the creation of a mind that is empty and ready for new things. It invites one to a new experience that is unburdened by the past and by previous knowledge. 
+
+As a designer. words such as Adobe, CMYK, and pagination have been part of everyday working conversation ever since my days as a Communication and Design student at OCAD University. Now, they are HTML, CCS, JavaScript, SVG, InVision, GIF, cinemagraph, and Versioning. The new vocabs come with the new territory that I crossed over from the old playgrounds where print used to reign supreme. Learning how to use new tools to create basic graphic elements all over again is scary and can be frustrating. At times it seems so much easier to just stick to the familiar routines and turn out the same offerings. I am becoming more convinced that the new words, more are popping up every day, are serving as the signposts leading me to the new playgrounds where I can continue my journey as a designer, developer, and creator.
+
+#### Something New
+In the process of solving the problem of missing fonts in Sketch, I found this [post](http://www.sketchappsources.com/blog/post/how-to-solve-missing-fonts-in-sketch-app) that shows this amazing way to download and install all the Google fonts at once through unsing following command in Terminal.  
+`curl https://raw.githubusercontent.com/qrpike/Web-Font-Load/master/install.sh | sh`
+So exciting! :clap:
