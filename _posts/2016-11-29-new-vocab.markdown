@@ -12,5 +12,5 @@ As a designer. words such as Adobe, CMYK, and pagination have been part of every
 
 #### Something New
 In the process of solving the problem of missing fonts in Sketch, I found this [post](http://www.sketchappsources.com/blog/post/how-to-solve-missing-fonts-in-sketch-app) that shows this amazing way to download and install all the Google fonts at once through unsing following command in Terminal.  
-`curl https://raw.githubusercontent.com/qrpike/Web-Font-Load/master/install.sh | sh`
-So exciting! :clap:
+`curl https://raw.githubusercontent.com/qrpike/Web-Font-Load/master/install.sh | sh`  
+So exciting!
