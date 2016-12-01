@@ -18,4 +18,4 @@ exclude:
   - Gemfile
   - Gemfile.lock
 emoji:
-  src: "/assets/images/emoji"
+  src: "/assets/images"
