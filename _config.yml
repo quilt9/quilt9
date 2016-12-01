@@ -13,6 +13,9 @@ markdown: kramdown
 theme: minima
 gems:
   - jekyll-feed
+  - jemoji
 exclude:
   - Gemfile
   - Gemfile.lock
+emoji:
+  src: "/assets/images/emoji"
